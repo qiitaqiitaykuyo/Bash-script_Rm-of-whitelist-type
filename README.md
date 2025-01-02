@@ -1,0 +1,1 @@
+# Bash-script_Rm-of-whitelist-type
