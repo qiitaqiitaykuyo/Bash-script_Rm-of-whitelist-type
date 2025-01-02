@@ -34,5 +34,5 @@ function DelEx () {
 }
 
 [[ "${BASH_SOURCE[0]}" = "${0}" ]] && EscCMD="exit" || EscCMD="return"
-alias 'goto'="$EscCMD " ':eof'="$ExitCODE"
+alias 'goto'="$EscCMD " ':eof'="0"
 goto :eof
